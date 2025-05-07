@@ -1,0 +1,12 @@
+D:\BackUp\Proyectos\microServiceVSCode\serviceCode.Domain\bin\Debug\net8.0\serviceCode.Domain.deps.json
+D:\BackUp\Proyectos\microServiceVSCode\serviceCode.Domain\bin\Debug\net8.0\serviceCode.Domain.dll
+D:\BackUp\Proyectos\microServiceVSCode\serviceCode.Domain\bin\Debug\net8.0\serviceCode.Domain.pdb
+D:\BackUp\Proyectos\microServiceVSCode\serviceCode.Domain\obj\Debug\net8.0\serviceCode.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\BackUp\Proyectos\microServiceVSCode\serviceCode.Domain\obj\Debug\net8.0\serviceCode.Domain.AssemblyInfoInputs.cache
+D:\BackUp\Proyectos\microServiceVSCode\serviceCode.Domain\obj\Debug\net8.0\serviceCode.Domain.AssemblyInfo.cs
+D:\BackUp\Proyectos\microServiceVSCode\serviceCode.Domain\obj\Debug\net8.0\serviceCode.Domain.csproj.CoreCompileInputs.cache
+D:\BackUp\Proyectos\microServiceVSCode\serviceCode.Domain\obj\Debug\net8.0\serviceCode.Domain.sourcelink.json
+D:\BackUp\Proyectos\microServiceVSCode\serviceCode.Domain\obj\Debug\net8.0\serviceCode.Domain.dll
+D:\BackUp\Proyectos\microServiceVSCode\serviceCode.Domain\obj\Debug\net8.0\refint\serviceCode.Domain.dll
+D:\BackUp\Proyectos\microServiceVSCode\serviceCode.Domain\obj\Debug\net8.0\serviceCode.Domain.pdb
+D:\BackUp\Proyectos\microServiceVSCode\serviceCode.Domain\obj\Debug\net8.0\ref\serviceCode.Domain.dll

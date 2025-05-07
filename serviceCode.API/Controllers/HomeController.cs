@@ -7,6 +7,7 @@ namespace serviceCode.API.Controllers
     [ApiController]
     public class HomeController : ControllerBase
     {
+
         [HttpGet("")]
         public async Task<IActionResult> Index()
         {

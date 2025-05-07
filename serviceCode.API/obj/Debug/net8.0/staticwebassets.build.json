@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "d+k/Z8tTFPnudVox7gCvVXu4LBdwtOnMrtneF1ZDkwg=",
-  "Source": "serviceCode.Api",
-  "BasePath": "_content/serviceCode.Api",
+  "Hash": "UsDR32q7U+JcIPQWgFwR5MrGE47amZzwWhfoXcLBQs0=",
+  "Source": "serviceCode.API",
+  "BasePath": "_content/serviceCode.API",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }

@@ -1,0 +1,16 @@
+D:\BackUp\Proyectos\microServiceVSCode\serviceCode.Application\obj\Debug\net8.0\serviceCode.Application.csproj.AssemblyReference.cache
+D:\BackUp\Proyectos\microServiceVSCode\serviceCode.Application\obj\Debug\net8.0\serviceCode.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\BackUp\Proyectos\microServiceVSCode\serviceCode.Application\obj\Debug\net8.0\serviceCode.Application.AssemblyInfoInputs.cache
+D:\BackUp\Proyectos\microServiceVSCode\serviceCode.Application\obj\Debug\net8.0\serviceCode.Application.AssemblyInfo.cs
+D:\BackUp\Proyectos\microServiceVSCode\serviceCode.Application\obj\Debug\net8.0\serviceCode.Application.csproj.CoreCompileInputs.cache
+D:\BackUp\Proyectos\microServiceVSCode\serviceCode.Application\obj\Debug\net8.0\serviceCode.Application.sourcelink.json
+D:\BackUp\Proyectos\microServiceVSCode\serviceCode.Application\bin\Debug\net8.0\serviceCode.Application.deps.json
+D:\BackUp\Proyectos\microServiceVSCode\serviceCode.Application\bin\Debug\net8.0\serviceCode.Application.dll
+D:\BackUp\Proyectos\microServiceVSCode\serviceCode.Application\bin\Debug\net8.0\serviceCode.Application.pdb
+D:\BackUp\Proyectos\microServiceVSCode\serviceCode.Application\bin\Debug\net8.0\serviceCode.Domain.dll
+D:\BackUp\Proyectos\microServiceVSCode\serviceCode.Application\bin\Debug\net8.0\serviceCode.Domain.pdb
+D:\BackUp\Proyectos\microServiceVSCode\serviceCode.Application\obj\Debug\net8.0\serviceC.8CA33967.Up2Date
+D:\BackUp\Proyectos\microServiceVSCode\serviceCode.Application\obj\Debug\net8.0\serviceCode.Application.dll
+D:\BackUp\Proyectos\microServiceVSCode\serviceCode.Application\obj\Debug\net8.0\refint\serviceCode.Application.dll
+D:\BackUp\Proyectos\microServiceVSCode\serviceCode.Application\obj\Debug\net8.0\serviceCode.Application.pdb
+D:\BackUp\Proyectos\microServiceVSCode\serviceCode.Application\obj\Debug\net8.0\ref\serviceCode.Application.dll
